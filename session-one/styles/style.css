@@ -1,3 +1,26 @@
-h1{
-    color: goldenrod;
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+</style>
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.image-position{
+    background-image: url(../images/man-in-wall.jpg);
+    background-position: bottom;
+    height: 100vh;
+}
+
+.image-position h1 {
+    color: blanchedalmond;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+p {
+
 }
