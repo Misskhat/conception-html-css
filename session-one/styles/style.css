@@ -8,7 +8,7 @@
 
 .image-position{
     background-image: url(../images/man-infront-wall.jpg);
-    height: 100vh;
+    height: 50vh;
     background-position: bottom;
 
 }
@@ -18,4 +18,26 @@
     color:azure;
     font-size: 100px;
     padding-top: 60px;
+    letter-spacing: 2px;
 }
+
+.artical{
+    width: 80%;
+    margin: 60px auto;
+    text-align: justify;
+    border: 10px solid greenyellow;
+    padding: 15px;
+    background-color: aquamarine;
+}
+
+.artical h2{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.artical p .imp{
+    font-size: 1em;
+    font-weight: 700;
+}
+
