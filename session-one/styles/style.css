@@ -28,6 +28,7 @@
     border: 10px solid greenyellow;
     padding: 15px;
     background-color: aquamarine;
+    background: linear-gradient(60deg, rgb(95, 95, 175), pink);
 }
 
 .artical h2{
