@@ -1,26 +1,21 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 
-* {
+*{
     margin: 0;
     padding: 0;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .image-position{
-    background-image: url(../images/man-in-wall.jpg);
-    background-position: bottom;
+    background-image: url(../images/man-infront-wall.jpg);
     height: 100vh;
+    background-position: bottom;
+
 }
 
-.image-position h1 {
-    color: blanchedalmond;
-    font-size: 100px;
+.image-position h1{
     text-align: center;
+    color:azure;
+    font-size: 100px;
     padding-top: 60px;
-}
-
-p {
-
 }
